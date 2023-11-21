@@ -41,7 +41,7 @@ HOMEPAGE_URL: str = "http://idd.insaan.iiit.ac.in/"
 PREVIEW_IMAGE_ID: int = 8801156
 # This should be filled AFTER uploading images to instance, just ID of any image.
 
-GITHUB_URL: str = "https://github.com/dataset-ninja/idd-segmentation"
+GITHUB_URL: str = "https://github.com/dataset-ninja/idd-detection"
 # URL to GitHub repo on dataset ninja (e.g. "https://github.com/dataset-ninja/some-dataset")
 
 ##################################

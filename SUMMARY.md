@@ -6,4 +6,4 @@ Images in the IDD: Object Detection dataset have pixel-level instance segmentati
 
 Here is a visualized example for randomly selected sample classes:
 
-[Dataset classes](https://github.com/dataset-ninja/idd-segmentation/raw/main/visualizations/classes_preview.webm)
+[Dataset classes](https://github.com/dataset-ninja/idd-detection/raw/main/visualizations/classes_preview.webm)
